@@ -34,6 +34,6 @@
   "author": "Hasun Park",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hasunpark/retrograph.git"
+    "url": "https://github.com/hasunpark/retrograph.git"
   }
 }
