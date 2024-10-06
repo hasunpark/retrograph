@@ -122,6 +122,19 @@ ChartOptions 接口包括以下属性：
 - composite_chart.ts: 展示如何在一个输出中创建多个图表。（部分实现，需要更新）
 - all_chart_types.ts: 显示所有支持的图表类型的示例。（部分实现，需要更新）
 
+## 功能请求
+
+如果您希望实现某个功能，请通过打开带有“feature request”标签的 GitHub 问题来告知我们。这有助于我们优先考虑和跟踪新想法。
+
+要提交功能请求：
+
+1. 转到存储库的[问题](https://github.com/hasunpark/retrograph/issues)页面。
+2. 点击“New Issue”。
+3. 选择“Feature Request”模板。
+4. 尽可能详细地填写模板。
+
+我们感谢您的反馈和建议！
+
 ## 许可证
 
 本项目采用 MIT 许可证。

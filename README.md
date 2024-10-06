@@ -122,6 +122,19 @@ Check the examples folder in the repository for more detailed usage examples:
 - composite_chart.ts: Shows how to create multiple charts in one output. (Partially implemented, needs update)
 - all_chart_types.ts: Displays examples of all supported chart types. (Partially implemented, needs update)
 
+## Feature Requests
+
+If you have a feature you'd like to see implemented, please let us know by opening a GitHub issue with the "feature request" label. This helps us prioritize and track new ideas.
+
+To submit a feature request:
+
+1. Go to the [Issues](https://github.com/hasunpark/retrograph/issues) page of the repository.
+2. Click on "New Issue".
+3. Select the "Feature Request" template.
+4. Fill out the template with as much detail as possible.
+
+We appreciate your feedback and suggestions!
+
 ## License
 
 This project is licensed under the MIT License.
